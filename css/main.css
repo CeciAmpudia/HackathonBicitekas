@@ -1,0 +1,248 @@
+body {
+	background-image: url("../img/cubes.png");
+	background-attachment: fixed;
+}
+.bg-g {
+	background-color: #f7f7f7;
+}
+section {
+	padding: 2em 0;
+}
+/* BICITEKA */
+.bicitk {
+	background-image: url("../img/header2.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+h1 {
+	color: white;
+	font-weight: bold;
+}
+h2 {
+	font-size: 3em;
+	font-weight: 600;
+}
+h5 {
+	color: transparent;
+	position: absolute;
+	top: 25%;
+}
+#casabiciteka, #quehacemos {
+	padding: 2em 0;
+}
+/* QUE HACEMOS */
+.gray {
+	background-color: rgba(0,0,0,0.5) !important;
+}
+#biciteka {
+	padding: 18em 0;
+}
+.nocturno, .ciegas, .todos, .blanca, .urbano, .artecleta {
+	padding: 0;
+}
+.nocturno {
+	background-image: url("../img/paseo-nocturno1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.ciegas {
+	background-image: url("../img/paseo-ciegas.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.todos {
+	background-image: url("../img/paseo-todos.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.blanca {
+	background-image: url("../img/ghostbike.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.urbano {
+	background-image: url("../img/urbano.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.artecleta {
+	background-image: url("../img/artecleta.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.paseos a {
+	color: transparent;
+}
+.paseos a:hover {
+	color: white;
+	
+	text-decoration: none;
+}
+.caja:hover {
+	background-color: rgba(255, 102, 0, 0.75);
+}
+
+
+/* CASA BICITEKA */
+#carousel {
+	padding: 0 !important;
+}
+.fondo{  
+	background-image :url(../img/casa.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: 100%;
+}
+.p-3 {
+	padding: 3em 6.5em;
+}
+.pb-2 {
+	padding-bottom: 2em;
+}
+.p-4 {
+	padding: 3em;
+}
+.m-5 {
+	padding: 5em;
+}
+.p-5 {
+	padding: 5em;
+}
+.m-4{
+	margin: 4em;
+}
+.m-3{
+	margin: 3em;
+}
+.m-3-3{
+	margin: 3em 5em;
+}
+blockquote{    
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    border-left: 6px solid #ffcc00 !important;
+}
+blockquote p {
+	color: black! important;
+    font-size: 17.5px;
+    font-weight: 300;
+    line-height: 1.25;
+}
+.f-w {
+	font-weight: 600;
+}
+.calendar {
+	width: 80%;
+}
+#comollegar iframe{
+	width: 100%;
+}
+
+/* CONTACTO */
+.contacto {
+	background-image: url("../img/bicicleta.png");
+	background-size: 100%;
+	background-attachment: fixed;
+}
+#contacto {
+	color: white;
+}
+.form-control {
+	background-color: rgba(251, 251, 251, 0.54) !important;
+}
+
+/*---------- REDES SOCIALES ----------*/
+#redes-sociales {
+	padding: 5em;
+}
+#redes-sociales a {
+	color: #404751;
+	font-size: 5em;
+}
+
+/*---------- FOOTER ----------*/
+footer {
+	padding: 3em;
+	background-image: url("../img/random_grey.png");
+	color: white;
+}
+.info-widget {
+	margin: 5em 0;
+}
+.direccion {
+	margin: 10em 0;
+}
+footer h3 {
+	color: #57bae8;
+}
+.subtitle {
+	color: #b8d2e3;
+}
+
+/* --------------------HEADER */
+.section {
+	padding: 4em;
+
+}
+.bici-l {
+	width: 100%;
+	height: 70%;
+}
+.nar {
+	color: #ff6600;
+}
+.ama {
+	color: #ffcc00;
+}
+.ver { 
+	color: #2eb82e; 
+}
+.green {
+	color: #00b33c;
+}
+.encp {
+	/*color: #2eb82e;*/
+	font-weight: 200 !important;
+}
+.list {
+	color: #009999;
+}
+header li {
+	font-size: 1.5em;
+}
+
+.txt {
+	padding-top: 2em;
+}
+
+.im {
+	/*width: 100%;*/
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.logo {
+	width: 10%;
+	height: 10%;
+}
+.pad {
+	padding-bottom: 2em;
+}
+.contact {
+	color: #b3003b;
+}
+header a:hover {
+	background-color:  #0080ff;
+}
+.ima {
+	width: 100%;
+	height: 100%;
+}
+
+.prim { 
+	width: 50%;
+	margin: 0 auto;
+}
+.vin {
+	margin-top: 3%;
+}
